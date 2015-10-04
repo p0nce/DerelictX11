@@ -1,0 +1,15 @@
+{
+    "name": "derelict-x11",
+    "description": "A dynamic binding to the X11 libraries.",
+    "homepage": "https://github.com/p0nce/DerelictX11",
+
+    "authors": ["Walter Bright"],
+    "license": "LGPL v3",
+
+    "targetName": "DerelictX11",
+    "targetPath": "lib",
+
+    "dependencies": {
+        "derelict-util": "~>2.0"
+    }
+}
